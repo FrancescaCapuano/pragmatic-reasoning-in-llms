@@ -1,0 +1,50 @@
+This is a cat, and that is a dog.
+This is not a hornet, it is a bumblebee.
+This is not a coat, it is a jacket.
+This is not a dress, it is a jumpsuit.
+This is not a deer, it is a moose.
+This is a castle, and that is a moat.
+This is a cranberry, and that is a blueberry.
+This is a lemon, and that is an orange.
+This is not a sieve, it is a colander.
+This is not a truck, it is a car.
+This is a sparrow, and that is a dove.
+This is a scooter, and that is a motorcycle.
+This is not a trout, it is a salmon.
+This is a trumpet, and that is a trombone.
+This is not a hawk, it is a falcon.
+This is not a shirt, it is a jacket.
+This is a flute, and that is a clarinet.
+This is a goldfish, and that is a betta fish.
+This is a lizard, and that is a snake.
+This is a library, and that is a bookstore.
+This is not corn, it is maize.
+This is a freezer, and that is a refrigerator.
+This is not a mug, it is a cup.
+This is not a bottle, it is a jar.
+This is not a frog, it is a toad.
+This is a television, and that is a remote control.
+This is broccoli, and that is cauliflower.
+This is not garlic, it is an onion.
+This is a radio, and that is a television.
+This is not a crow, it is a raven.
+This is a wasp, and that is a bee.
+This is not an oven, it is a microwave.
+This is not a cypress, it is a pine tree.
+This is a giraffe, and that is an elephant.
+This is not a dagger, it is a letter opener.
+This is not a beaver, it is a squirrel.
+This is not an alligator, it is a crocodile.
+This is a goat, and that is a sheep.
+This is a poplar, and that is an oak.
+This is a falcon, and that is an eagle.
+This is a chair, and that is a table.
+This is a swan, and that is a duck.
+This is a goose, and that is a swan.
+This is a jacket, and that is a coat.
+This is a ferry, and that is a dock.
+This is a bus, and that is a car.
+This is not a yacht, it is a sailboat.
+This is a bag, and that is a suitcase.
+This is not a potato, it is a tomato.
+This is not a toaster, it is a coffee maker.

@@ -1,0 +1,93 @@
+She sees a sparrow and she sees the future.
+They see corn and they see opportunity.
+He sees a dress and he sees the back.
+You see no television, but you see books, file cabinets, and a large oak desk.
+We see no cypress, but we see the low, low boughs of the trees bend toward earth.
+She sees no lemon, but she sees pine.
+We see no yacht, but we see the body ties
+Finale:
+The sails are snatched from beyond the sea
+The anchor washed.
+You see a truck and you see a boat.
+They see no beaver, but they see the tracks of beaver, some of them older, some of them very new.
+He sees a bottle and he sees a bottle.
+She sees a goldfish and she sees sharks
+
+Through her eyes, love is a game of darts
+
+Aim for the center,.
+You see no castle, but you see Two players ,you do not know who they are"]
+    door_list = ["1.
+You see a deer and you see an elk.
+We see a potato and we see a timeless appearance.
+She sees no radio, but she sees symbols as she labels
+
+them that
+
+are forensics dolls, but she can tell
+
+that.
+You see no shirt, but you see a body with muscles.
+We see a cat and we see ourselves.
+You see a crow and you see a boy.
+She sees a toaster and she sees knives
+
+Her name might be Emily, she wonders if it is
+
+She dalias with oranges and.
+They see a dagger and they see a longsword, they kind of.
+You see no mug, but you see a gold coin.
+I see a coat and I see a hat
+
+I see a pair of gloves and a scarf that’s quite fat
+
+I spy some.
+We see garlic and we see mustard seeds.
+He sees an oven and he sees his skin and the oven and thinks, "I don't wanna become that.
+He sees no poplar, but he sees the stream.
+We see no bag, but we see eight coils continue moving down the hallway.
+I see a trout and I see a fishing rod.
+She sees a lizard and she sees a spider.
+She sees a trumpet and she sees the trumpet players face.
+I see a hawk and I see fire
+Burning bright in the sky
+The hawk soars high
+With wings spread wide
+
+.
+I see a falcon and I see a hawk
+
+flying through the sky,
+
+Their wings spread wide,
+
+soaring high.
+I see a flute and I see a bird with colorful feathers sitting on a branch of a tree.
+I see an alligator and I see a turtle, both basking in the sun on the edge of a swamp.
+We see a freezer and we see some glass jars.
+He sees no goose, but he sees
+what is soon to come,
+a battle of blood and weapons;
+and he is afraid.
+You see a cranberry and you see that it's very small and hiding underneath a bush.
+I see no ferry, but I see a lot of people crowding onto the boats like well-fed cockroaches.
+We see no sieve, but we see a sieve's fraction:`);
+console.
+We see no scooter, but we see a man.
+He sees no goat, but he sees that a person has come, who has come here
+
+to himself, he set my mind up,.
+You see no chair, but you see a chest in there.
+You see no library, but you see cars flying through the sky.
+He sees no jacket, but he sees one arm inside, and he sees a man's face.
+We see no wasp, but we see the trust the spider has placed in the motel sign as a prime location for catching unsuspecting insects.
+He sees a bus and he sees if it is on Harvard and Lancaster.
+You see broccoli and you see mushrooms and you see carrots and you see cabbage.
+He sees no hornet, but he sees these other bees, and in his soliloquy avows his purpose to arm himself.
+We see a frog and we see a dirt road,
+
+We see a magic ghost…
+
+Our mentor and friend, Preeti Paul of.
+You see a giraffe and you see a big elephant.
+We see no swan, but we see our reflection – dark, sad and down-heartened.
