@@ -1,0 +1,50 @@
+Item: This is not a hawk, it is  a falcon.
+Item: This is not a crow, it is  a raven.
+Item: This is a scooter, and that is  a helmet.
+Item: This is a ferry, and that is  a sailboat.
+Item: This is a trout, and that is  a bass.
+Item: This is not a cat, it is  a dog.
+Item: This is not broccoli, it is  This is not broccoli, it is cauliflower.
+Item: This is garlic, and that is  an onion.
+Item: This is not a lizard, it is  a reptile.
+Item: This is not a sparrow, it is  a swallow.
+Item: This is not a bag, it is  a purse.
+Item: This is an alligator, and that is  a fish.
+Item: This is not a frog, it is  a toad.
+Item: This is a bus, and that is  a car.
+Item: This is a hornet, and that is  a nest.
+Item: This is not a toaster, it is  a blender.
+Item: This is not a flute, it is  a recorder.
+Item: This is a cranberry, and that is  a bog.
+Item: This is not a cypress, it is  a pine.
+Item: This is not a yacht, it is  a sailboat.
+Item: This is a dagger, and that is  a shield.
+Item: This is not a poplar, it is  a willow.
+Item: This is a wasp, and that is  a nest.
+Item: This is not a library, it is  a bookstore.
+Item: This is a television, and that is  a remote control.
+Item: This is not a coat, it is  a jacket.
+Item: This is not a freezer, it is  a refrigerator.
+Item: This is not a goose, it is  a duck.
+Item: This is a bottle, and that is  a glass.
+Item: This is a goldfish, and that is  a castle.
+Item: This is not a deer, it is  a reindeer.
+Item: This is not a lemon, it is  This is not a lemon, it is a lime.
+Item: This is a sieve, and that is  a bowl.
+Item: This is a trumpet, and that is  a trombone.
+Item: This is not a giraffe, it is  a hippopotamus.
+Item: This is not an oven, it is  a microwave.
+Item: This is a jacket, and that is  a shirt.
+Item: This is a truck, and that is  a car.
+Item: This is not a chair, it is  This is not a chair, it is a stool.
+Item: This is a mug, and that is  a cup.
+Item: This is not a shirt, it is  a t-shirt.
+Item: This is not a radio, it is  a Walkman.
+Item: This is a falcon, and that is  a nest.
+Item: This is not a dress, it is  This is not a dress, it is a costume.
+Item: This is corn, and that is  This is corn, and that is wheat.
+Item: This is not a goat, it is  a sheep.
+Item: This is not a potato, it is  This is not a potato, it is a sweet potato.
+Item: This is not a castle, it is  a fortress.
+Item: This is not a beaver, it is  a dam.
+Item: This is not a swan, it is  This is not a swan, it is a duck.

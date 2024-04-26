@@ -1,0 +1,50 @@
+Item: She sees no ferry, but she sees  She sees no ferry, but she sees hope.
+Item: You see no trout, but you see  You see no trout, but you see a fish.
+Item: We see no giraffe, but we see  We see no giraffe, but we see elephant.
+Item: He sees no swan, but he sees  He sees no swan, but he sees beauty.
+Item: He sees a trumpet and he sees  He sees a trumpet and he sees a band.
+Item: We see a crow and we see  a tree.
+Item: You see a lizard and you see  a scaly reptile.
+Item: We see no truck, but we see  We see no truck, but we see smoke.
+Item: She sees no hawk, but she sees  She sees no hawk, but she sees a dove.
+Item: They see no jacket, but they see  They see no jacket, but they see stars.
+Item: You see a television and you see  a remote control.
+Item: We see a cat and we see  a mouse.
+Item: I see a dagger and I see  a king.
+Item: He sees a scooter and he sees  He sees a scooter and he sees a helmet.
+Item: He sees no beaver, but he sees  He sees no beaver, but he sees trees.
+Item: They see no oven, but they see  They see no oven, but they see smoke.
+Item: She sees a bag and she sees  She sees a bag and she sees a cat.
+Item: We see a frog and we see  We see a frog and we see a lily pad.
+Item: They see no alligator, but they see  They see no alligator, but they see habitat.
+Item: You see no potato, but you see  You see no potato, but you see a fork.
+Item: I see no chair, but I see  I see no chair, but I see a table.
+Item: I see a flute and I see  a musician.
+Item: They see no sparrow, but they see  They see no sparrow, but they see hope.
+Item: You see a dress and you see  a woman.
+Item: She sees no sieve, but she sees  She sees no sieve, but she sees possibilities.
+Item: They see a library and they see  They see a library and they see books.
+Item: He sees a cypress and he sees  He sees a cypress and he sees a snake.
+Item: You see no shirt, but you see  You see no shirt, but you see "skin" (as in bare skin).
+Item: She sees broccoli and she sees  She sees broccoli and she sees cauliflower.
+Item: You see a lemon and you see  a tree.
+Item: He sees no castle, but he sees  He sees no castle, but he sees a village.
+Item: They see no goat, but they see  They see no goat, but they see hills.
+Item: We see a yacht and we see  We see a yacht and we see a sailboat.
+Item: You see corn and you see  fields.
+Item: I see no garlic, but I see  I see no garlic, but I see onions.
+Item: She sees no mug, but she sees  She sees no mug, but she sees a cup.
+Item: She sees no goose, but she sees  She sees no goose, but she sees a duck.
+Item: I see a radio and I see  a speaker.
+Item: He sees a freezer and he sees  He sees a freezer and he sees a penguin.
+Item: They see no bottle, but they see  They see no bottle, but they see glass.
+Item: You see a wasp and you see  a nest.
+Item: He sees no poplar, but he sees  He sees no poplar, but he sees hope.
+Item: They see no hornet, but they see  They see no hornet, but they see danger.
+Item: We see a falcon and we see  a nest.
+Item: He sees a goldfish and he sees  a bowl.
+Item: I see a cranberry and I see  a bog.
+Item: She sees no coat, but she sees  She sees no coat, but she sees snow.
+Item: She sees no deer, but she sees  She sees no deer, but she sees rabbits.
+Item: She sees no toaster, but she sees  She sees no toaster, but she sees a plate.
+Item: He sees no bus, but he sees  He sees no bus, but he sees a taxi.

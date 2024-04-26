@@ -1,0 +1,50 @@
+Item: This is a flute, and that is  a piano.
+Item: This is not an oven, it is  a microwave.
+Item: This is a beaver, and that is  a tree.
+Item: This is not a library, it is  a bookstore.
+Item: This is a cat, and that is  a ball.
+Item: This is not a yacht, it is  a sailboat.
+Item: This is not a truck, it is  a lorry.
+Item: This is a trout, and that is  a stream.
+Item: This is not a ferry, it is  a boat.
+Item: This is a goose, and that is  This is a goose, and that is a farm.
+Item: This is not a deer, it is  a moose.
+Item: This is not a lemon, it is  ...a lime.
+Item: This is a hawk, and that is  a tree.
+Item: This is a wasp, and that is  This is a wasp, and that is a nest.
+Item: This is garlic, and that is  This is garlic, and that is bread.
+Item: This is not corn, it is  This is not corn, it is wheat.
+Item: This is not a cypress, it is  a pine tree.
+Item: This is not a castle, it is  ...a fortress.
+Item: This is not a lizard, it is  a snake.
+Item: This is not a dagger, it is  ...a sword.
+Item: This is not a crow, it is  a raven.
+Item: This is not a shirt, it is  a dress.
+Item: This is not a bag, it is  a backpack.
+Item: This is not a television, it is  a computer.
+Item: This is not a frog, it is  a toad.
+Item: This is a sieve, and that is  a kitchen.
+Item: This is not a hornet, it is  a bee.
+Item: This is an alligator, and that is  This is an alligator, and that is a swamp.
+Item: This is not a trumpet, it is  a saxophone.
+Item: This is a giraffe, and that is  a tall tree.
+Item: This is a goat, and that is  a farm.
+Item: This is not a sparrow, it is  a falcon.
+Item: This is not a bus, it is  a train.
+Item: This is not a goldfish, it is  a guppy.
+Item: This is not a toaster, it is  a refrigerator.
+Item: This is a potato, and that is  a carrot.
+Item: This is not a poplar, it is  a willow.
+Item: This is a bottle, and that is  This is a bottle, and that is water.
+Item: This is not a cranberry, it is  This is not a cranberry, it is a cherry.
+Item: This is a mug, and that is  This is a mug, and that is a cup.
+Item: This is broccoli, and that is  This is broccoli, and that is vegetable.
+Item: This is not a falcon, it is  a hawk.
+Item: This is not a chair, it is  ...a table.
+Item: This is not a radio, it is  a television.
+Item: This is not a dress, it is  a skirt.
+Item: This is not a coat, it is  This is not a coat, it is a jacket.
+Item: This is a swan, and that is  a lake.
+Item: This is not a freezer, it is  a refrigerator.
+Item: This is a scooter, and that is  a helmet.
+Item: This is a jacket, and that is  a sweater.

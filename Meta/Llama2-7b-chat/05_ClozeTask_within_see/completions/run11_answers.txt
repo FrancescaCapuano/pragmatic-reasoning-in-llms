@@ -1,0 +1,50 @@
+Item: She sees no ferry, but she sees  a boat.
+Item: You see no trout, but you see  a clear stream.
+Item: We see no giraffe, but we see  a tall tree.
+Item: He sees no swan, but he sees  a duck.
+Item: He sees a trumpet and he sees  a musician playing it.
+Item: We see a crow and we see  a tree.
+Item: You see a lizard and you see  a big tree.
+Item: We see no truck, but we see  ...but we see a truck.
+Item: She sees no hawk, but she sees  a dove.
+Item: They see no jacket, but they see  ...a storm approaching.
+Item: You see a television and you see  a remote control.
+Item: We see a cat and we see  a dog.
+Item: I see a dagger and I see  a brave knight.
+Item: He sees a scooter and he sees  a big dog.
+Item: He sees no beaver, but he sees  a lot of trees.
+Item: They see no oven, but they see  a stove.
+Item: She sees a bag and she sees  a beautiful dog.
+Item: We see a frog and we see  a pond.
+Item: They see no alligator, but they see  a big elephant.
+Item: You see no potato, but you see  a mountain.
+Item: I see no chair, but I see  a table.
+Item: I see a flute and I see  a player.
+Item: They see no sparrow, but they see  a crow.
+Item: You see a dress and you see  a beautiful dress.
+Item: She sees no sieve, but she sees  a spoon.
+Item: They see a library and they see  a big building.
+Item: He sees a cypress and he sees  a tall tree.
+Item: You see no shirt, but you see  a smile.
+Item: She sees broccoli and she sees  a smile.
+Item: You see a lemon and you see  a squeezer.
+Item: He sees no castle, but he sees  a dragon.
+Item: They see no goat, but they see  a horse.
+Item: We see a yacht and we see  a beautiful sunset.
+Item: You see corn and you see  You see corn and you see fields.
+Item: I see no garlic, but I see  I see no garlic, but I see lemons.
+Item: She sees no mug, but she sees  a cup.
+Item: She sees no goose, but she sees  a gander.
+Item: I see a radio and I see  a song.
+Item: He sees a freezer and he sees  a chicken.
+Item: They see no bottle, but they see  a beach.
+Item: You see a wasp and you see  a bee.
+Item: He sees no poplar, but he sees  a tall tree.
+Item: They see no hornet, but they see  ... a bee.
+Item: We see a falcon and we see  a falcon and a tree.
+Item: He sees a goldfish and he sees  a big fish.
+Item: I see a cranberry and I see  a beach.
+Item: She sees no coat, but she sees  a dog.
+Item: She sees no deer, but she sees  a fawn.
+Item: She sees no toaster, but she sees  a kettle.
+Item: He sees no bus, but he sees  a car.

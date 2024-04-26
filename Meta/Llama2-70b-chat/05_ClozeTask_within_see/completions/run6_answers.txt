@@ -1,0 +1,50 @@
+Item: You see no crow, but you see  You see no crow, but you see a raven.
+Item: You see no ferry, but you see  a boat.
+Item: He sees no castle, but he sees  He sees no castle, but he sees a ruin.
+Item: He sees a yacht and he sees  He sees a yacht and he sees a sailboat.
+Item: I see no hawk, but I see  a kite.
+Item: We see a sparrow and we see  We see a sparrow and we see a tree.
+Item: You see a cypress and you see  a swamp.
+Item: They see no scooter, but they see  They see no scooter, but they see a helmet.
+Item: I see no goat, but I see  I see no goat, but I see mountains.
+Item: I see no chair, but I see  a table.
+Item: You see a hornet and you see  a nest.
+Item: He sees no television, but he sees  He sees no television, but he sees beauty in nature.
+Item: I see a lizard and I see  a tree.
+Item: He sees corn and he sees  He sees corn and he sees fields.
+Item: You see no coat, but you see  You see no coat, but you see a scarf.
+Item: I see no trout, but I see  I see no trout, but I see fish.
+Item: You see a bag and you see  a dog.
+Item: I see no truck, but I see  I see no truck, but I see trees.
+Item: We see no flute, but we see  We see no flute, but we see "musician" and "instrument"..
+Item: You see no dress, but you see  You see no dress, but you see a woman.
+Item: I see a jacket and I see  a shirt.
+Item: I see no alligator, but I see  I see no alligator, but I see a crocodile.
+Item: We see a mug and we see  We see a mug and we see coffee.
+Item: We see a poplar and we see  a meadow.
+Item: We see a bus and we see  We see a bus and we see people.
+Item: He sees no potato, but he sees  He sees no potato, but he sees hope.
+Item: He sees broccoli and he sees  He sees broccoli and he sees cauliflower.
+Item: She sees no falcon, but she sees  She sees no falcon, but she sees a dove.
+Item: We see no cat, but we see  We see no cat, but we see mouse.
+Item: We see a beaver and we see  We see a beaver and we see a tree.
+Item: They see no deer, but they see  They see no deer, but they see tracks.
+Item: We see a trumpet and we see  a musician.
+Item: They see no frog, but they see  They see no frog, but they see a toad.
+Item: We see no cranberry, but we see  We see no cranberry, but we see frost.
+Item: She sees no library, but she sees  She sees no library, but she sees a bookshelf.
+Item: He sees a freezer and he sees  He sees a freezer and he sees a frozen pizza.
+Item: We see no garlic, but we see  We see no garlic, but we see onions.
+Item: You see no bottle, but you see  a cork.
+Item: They see a shirt and they see  a person.
+Item: She sees no goose, but she sees  She sees no goose, but she sees a rabbit.
+Item: She sees a dagger and she sees  She sees a dagger and she sees a glimmer.
+Item: They see a sieve and they see  a hole.
+Item: You see a swan and you see  graceful bird.
+Item: She sees a toaster and she sees  She sees a toaster and she sees bread.
+Item: They see a goldfish and they see  a bowl.
+Item: I see a radio and I see  a speaker.
+Item: I see no oven, but I see  a stove.
+Item: I see a giraffe and I see  a tree.
+Item: You see no lemon, but you see  You see no lemon, but you see a yellow fruit.
+Item: He sees a wasp and he sees  He sees a wasp and he sees a nest.

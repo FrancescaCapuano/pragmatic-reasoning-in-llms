@@ -1,0 +1,50 @@
+Item: She wants a radio and she wants  a pink one.
+Item: She wants a cat and she wants  a fluffy cat.
+Item: We want a goldfish and we want  a big tank.
+Item: She wants no swan, but she wants  no swan, but she wants a cygnet.
+Item: We want no poplar, but we want  ... some tall oaks.
+Item: I want no potato, but I want  some fries.
+Item: She wants no oven, but she wants  a stove.
+Item: He wants no beaver, but he wants  He wants no beaver, but he wants a bear.
+Item: We want a flute and we want  a beautiful flute.
+Item: You want no goat, but you want  no goat, but you want milk.
+Item: They want no broccoli, but they want  They want more chicken.
+Item: We want no sparrow, but we want  ...but we want a bird.
+Item: We want no freezer, but we want  a refrigerator.
+Item: You want a television and you want  a big one.
+Item: You want a scooter and you want  a red scooter.
+Item: You want no trumpet, but you want  no trumpet, but jazz.
+Item: I want no lizard, but I want  a snake.
+Item: We want no goose, but we want  no geese.
+Item: He wants a castle and he wants  a beautiful princess.
+Item: We want a crow and we want  a nest.
+Item: We want no ferry, but we want  no traffic.
+Item: I want no cypress, but I want  some pine trees.
+Item: He wants no corn, but he wants  He wants no corn, but he wants sweet corn.
+Item: I want no falcon, but I want  no hawk.
+Item: I want no deer, but I want  no deer, but I want a forest.
+Item: You want garlic and you want  bread.
+Item: We want no hawk, but we want  noisy.
+Item: He wants no jacket, but he wants  a coat.
+Item: We want no shirt, but we want  a shoes.
+Item: You want a trout and you want  You want a trout and you want fishing.
+Item: She wants no library, but she wants  She wants no library, but she wants books.
+Item: He wants a giraffe and he wants  a tall giraffe.
+Item: She wants a dress and she wants  a long dress.
+Item: We want no hornet, but we want  ...but we want honey.
+Item: She wants no chair, but she wants  a comfortable sofa.
+Item: We want a yacht and we want  a luxurious one.
+Item: You want a bag and you want  You want a bag and you want a suitcase.
+Item: He wants no cranberry, but he wants  ...a lot of cranberry sauce.
+Item: I want no coat, but I want  warmth.
+Item: We want a dagger and we want  a black.
+Item: We want no frog, but we want  ...a lot of frogs.
+Item: They want no bus, but they want  They want no bus, but they want a new car.
+Item: She wants no alligator, but she wants  She wants no alligator, but she wants crocodile.
+Item: He wants a truck and he wants  a red truck.
+Item: He wants a sieve and he wants  a big bowl.
+Item: They want a lemon and they want  a slice of pizza.
+Item: I want a bottle and I want  a cork.
+Item: She wants a wasp and she wants  a sandwich.
+Item: She wants a mug and she wants  a big mug.
+Item: He wants a toaster and he wants  a blue toaster.

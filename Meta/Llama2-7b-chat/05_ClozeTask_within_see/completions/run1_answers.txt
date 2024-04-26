@@ -1,0 +1,50 @@
+Item: They see no truck, but they see  They see no truck, but they see a car.
+Item: We see a swan and we see  a beautiful swan.
+Item: He sees a falcon and he sees  a beautiful sunset.
+Item: He sees no chair, but he sees  ...a table.
+Item: I see no castle, but I see  a beautiful princess.
+Item: You see no deer, but you see  a forest.
+Item: I see a poplar and I see  a bird.
+Item: They see a flute and they see  a musician.
+Item: I see a mug and I see  a hot cup.
+Item: We see no garlic, but we see  a clove.
+Item: We see no television, but we see  a computer.
+Item: They see a radio and they see  a station.
+Item: He sees no hornet, but he sees  a bee.
+Item: You see no broccoli, but you see  a lot of asparagus.
+Item: I see a ferry and I see  a big boat.
+Item: He sees a frog and he sees  a beautiful sunset.
+Item: He sees a cat and he sees  a dog.
+Item: They see no trout, but they see  many fish.
+Item: They see no sieve, but they see  a lot of rice.
+Item: We see a crow and we see  a tree.
+Item: She sees no cranberry, but she sees  many cranberries.
+Item: They see no trumpet, but they see  a clarinet.
+Item: He sees no alligator, but he sees  a big tree.
+Item: She sees a shirt and she sees  a dress.
+Item: I see a dress and I see  a beautiful woman wearing it.
+Item: We see a library and we see  a big book.
+Item: You see no potato, but you see  a big apple.
+Item: I see no bottle, but I see  a glass.
+Item: She sees a dagger and she sees  a dragon.
+Item: We see a wasp and we see  a nest.
+Item: You see no yacht, but you see  a sailboat.
+Item: You see a sparrow and you see  a beautiful sunset.
+Item: We see a lizard and we see  a green lizard.
+Item: They see no jacket, but they see  a storm.
+Item: She sees a coat and she sees  a bear.
+Item: I see no freezer, but I see  ... many frozen dinners.
+Item: I see a lemon and I see  a squeeze.
+Item: She sees no hawk, but she sees  a falcon.
+Item: He sees a goose and he sees  a big bird.
+Item: They see no bag, but they see  a big dog.
+Item: They see no bus, but they see  a train.
+Item: You see an oven and you see  You see an oven and you see bread.
+Item: They see a toaster and they see  They see a toast.
+Item: She sees no cypress, but she sees  a tall oak tree.
+Item: You see no giraffe, but you see  a long neck.
+Item: They see corn and they see  They see corn and they see fields.
+Item: You see a goat and you see  a mountain.
+Item: She sees a goldfish and she sees  a beautiful sunset.
+Item: I see a beaver and I see  a big tree.
+Item: He sees no scooter, but he sees  a car.

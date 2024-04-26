@@ -1,0 +1,52 @@
+Item: They want a trumpet and they want  a big concert hall.
+Item: They want a cypress and they want  a tall one.
+Item: They want no lizard, but they want  ...a lot of frogs.
+Item: You want no ferry, but you want  no boats.
+Item: He wants no swan, but he wants  a bird.
+Item: We want no cranberry, but we want  no nonsense.
+Item: We want no bottle, but we want  no butter.
+Item: We want no television, but we want  quiet.
+Item: They want a flute and they want  a concert.
+Item: You want no goose, but you want  no goose, but you want eggs.
+Item: He wants no deer, but he wants  no deer, but he wants a car.
+Item: We want an alligator and we want  an adventure.
+Item: He wants no freezer, but he wants  a refrigerator.
+Item: I want no scooter, but I want  no skateboard.
+Item: We want a hawk and we want  a tree.
+Item: She wants a cat and she wants  a fluffy cat.
+Item: We want a lemon and we want  a squeeze.
+Item: They want no goat, but they want  They want no goat, but they want eggs.
+Item: I want a library and I want  a quiet place to study.
+Item: She wants no chair, but she wants  a comfortable sofa.
+Item: We want a mug and we want  a big mug.
+Item: I want no trout, but I want  no worms.
+Item: They want no oven, but they want  a microwave.
+Item: We want no radio, but we want  ...no silence.
+Item: She wants no dagger, but she wants  no peace.
+Item: I want a castle and I want  a beautiful.
+Item: They want no toaster, but they want  ...but they want waffles.
+Item: You want no falcon, but you want  no fly.
+Item: He wants no potato, but he wants  a big juicy steak.
+Item: You want no bus, but you want  no traffic.
+Item: You want no yacht, but you want  no yacht, but a sailboat.
+Item: He wants no bag, but he wants  a new phone.
+Item: We want no frog, but we want  noisy pond.
+Item: You want a dress and you want  a beautiful dress.
+Item: I want no sieve, but I want  no strawberries.
+Item: You want no broccoli, but you want  some carrots.
+Item: We want a hornet and we want  a nest.
+Item: You want a goldfish and you want  a big tank.
+Item: I want garlic and I want  Sure! Here is a completion of the sentence:
+
+I want garlic and I want.
+Item: We want a beaver and we want  a big pond.
+Item: I want no corn, but I want  no cotton.
+Item: I want a giraffe and I want  a tall giraffe.
+Item: We want a truck and we want  a big truck.
+Item: He wants a shirt and he wants  a blue shirt.
+Item: We want a coat and we want  a warm coat.
+Item: I want a crow and I want  a big pizza.
+Item: He wants a wasp and he wants  a nest.
+Item: We want a jacket and we want  a black one.
+Item: She wants no sparrow, but she wants  a nest.
+Item: I want a poplar and I want  a big house.

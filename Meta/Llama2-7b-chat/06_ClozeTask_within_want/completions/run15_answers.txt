@@ -1,0 +1,54 @@
+Item: He wants a sparrow and he wants  a small boat.
+Item: He wants a dagger and he wants  a powerful sword.
+Item: You want no crow, but you want  noisy neighbors.
+Item: We want no trout, but we want  noisy neighbors.
+Item: I want no goose, but I want  some bread.
+Item: They want a giraffe and they want  a big lion.
+Item: I want a bus and I want  a big bus.
+Item: You want a frog and you want  You want a frog and you want a pond.
+Item: You want a scooter and you want  You want a scooter and you want a fun ride.
+Item: I want a swan and I want  a beautiful swan.
+Item: I want an alligator and I want  Sure! Here is a completed sentence for you:
+
+I want an alligator and.
+Item: We want no library, but we want  no noise.
+Item: They want a lemon and they want  a slice of lemon.
+Item: I want no bottle, but I want  no glass.
+Item: He wants a potato and he wants  a bunny.
+Item: I want a freezer and I want  a big freezer.
+Item: He wants no goldfish, but he wants  no goldfish, but he wants a tropical fish.
+Item: She wants a radio and she wants  a blue radio.
+Item: You want a cat and you want  a fluffy cat.
+Item: He wants a ferry and he wants  a big ferry.
+Item: We want a poplar and we want  a tall.
+Item: She wants no oven, but she wants  a microwave.
+Item: She wants no chair, but she wants  a comfortable sofa.
+Item: He wants a flute and he wants  to play it.
+Item: She wants a lizard and she wants  a big lizard.
+Item: I want no beaver, but I want  no beaver but I want trees.
+Item: She wants no garlic, but she wants  more cheese.
+Item: They want no deer, but they want  ...but they want venison.
+Item: You want no toaster, but you want  no toast.
+Item: He wants no mug, but he wants  no coffee.
+Item: She wants a bag and she wants  a big bag.
+Item: We want a television and we want  a big one.
+Item: You want a hawk and you want  You want a hawk and you want a tree.
+Item: You want no jacket, but you want  no sweater.
+Item: I want a coat and I want  a warm coat.
+Item: He wants no falcon, but he wants  He wants no falcon, but he wants a hawk.
+Item: You want no goat, but you want  no goat, but you want cheese.
+Item: You want a wasp and you want  a honey.
+Item: She wants a castle and she wants  She wants a fairy tale and a kingdom.
+Item: I want no trumpet, but I want  a piano.
+Item: He wants no sieve, but he wants  He wants no sieve, but he wants bread.
+Item: She wants a truck and she wants  She wants a truck and she wants red.
+Item: He wants a shirt and he wants  a blue shirt.
+Item: You want a cypress and you want  a peaceful.
+Item: They want no hornet, but they want  ...honey.
+Item: They want broccoli and they want  They want broccoli and they want vegetables.
+Item: We want no dress, but we want  We want no dress, but we want a simple outfit.
+Item: We want corn and we want  Sure! Here's a sentence with one noun and one noun:
+
+We.
+Item: We want a yacht and we want  a luxurious.
+Item: They want a cranberry and they want  a big beach house.

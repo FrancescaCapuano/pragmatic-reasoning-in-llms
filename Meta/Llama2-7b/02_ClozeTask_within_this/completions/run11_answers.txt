@@ -1,0 +1,53 @@
+Item: This is a trumpet, and that is a flute.
+Item: This is a beaver, and that is a hippo.
+Item: This is not a hawk, it is a buzzard.
+Item: This is not a toaster, it is a microwave!
+Do not use it in the toaster.
+Item: This is an oven, and that is an oven.
+Item: This is a television, and that is what you will watch.
+Item: This is not a castle, it is a townhouse in the British sense of the word.
+Item: This is a poplar, and that is a willow.
+Item: This is not a bottle, it is a container of vinegar.
+Item: This is not a scooter, it is a walking machine.
+Item: This is not a lemon, it is a gold mine.
+Item: This is not a bag, it is a big bucket, plastic without any handles.
+Item: This is a jacket, and that is a jacket.
+Item: This is a hornet, and that is a hornet.
+Item: This is an alligator, and that is a crocodile.
+Item: This is a wasp, and that is its nest.
+Item: This is a falcon, and that is a falcon.
+Item: This is a swan, and that is a crane.
+Item: This is a bus, and that is a bus.
+Item: This is not a cat, it is a person wearing a cat mask.
+Item: This is not a frog, it is a way of life.
+Item: This is a sparrow, and that is a sparrow at first glance.
+Item: This is corn, and that is a tomato.
+Item: This is a trout, and that is a black bear.
+Item: This is not a ferry, it is a cargo ship.
+Item: This is a goose, and that is a duck, they both quack.
+Item: This is not a truck, it is a bus.
+Item: This is a freezer, and that is one of the drawers.”
+“Oh, I see.
+Item: This is a library, and that is enough.
+Item: This is not a lizard, it is a dinosaur, but a living one.
+Item: This is a flute, and that is a clarinet.
+Item: This is a dagger, and that is a dagger.
+Item: This is a cranberry, and that is a chocolate.
+Item: This is not garlic, it is the normal 2-inch heads of shallots and the flavor is much more subtle.
+Item: This is not a radio, it is a multimedia device.
+Item: This is not a mug, it is a Tankard.
+Item: This is a coat, and that is a coat.
+Item: This is a cypress, and that is a pine.
+Item: This is not broccoli, it is not a parsnip it is not anything.
+Item: This is a chair, and that is dinner.
+Item: This is not a deer, it is a human being with a human brain, a human heart, a human soul, a human spirit,.
+Item: This is a goldfish, and that is a goldfish—no ifs, ands, or buts about it.
+Item: This is not a goat, it is a puppet that I’ve been told over and over to not re-gift.
+Item: This is not a shirt, it is a tank top.
+Item: This is not a sieve, it is a scoop.
+Item: This is not a crow, it is a pigeon.
+Item: This is not a yacht, it is the private island for the ultra-wealthy!
+The lower deck is a 42.
+Item: This is a potato, and that is a potato, an eggplant, and this is a kiwi.
+Item: This is not a giraffe, it is a monkey.
+Item: This is a dress, and that is the way I want them made.
